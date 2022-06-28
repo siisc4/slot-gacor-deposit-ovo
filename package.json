@@ -1,0 +1,17 @@
+{
+  "name": "slot-gacor-deposit-ovo",
+  "theme": "ui",
+  "version": "1.0.2",
+  "description": "Daftar slot gacor deposit ovo gampang menang",
+  "keywords": [
+    "slot",
+    "slot gacor",
+    "slot deposit ovo",
+    "daftar slot deposit ovo"
+  ],
+  "repository": "https://github.com/siisc4/slot-gacor-deposit-ovo.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
