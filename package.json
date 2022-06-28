@@ -9,7 +9,7 @@
     "slot deposit ovo",
     "daftar slot deposit ovo"
   ],
-  "repository": "https://github.com/siisc4/slot-gacor-deposit-ovo.git",
+  "repository": "https://github.com/siisc4/slot-gacor-deposit-ovo",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
